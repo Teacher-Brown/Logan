@@ -4,7 +4,7 @@ This is your personal website project!
 You’ll be learning **HTML** (the content) and **CSS** (the style).  
 Every time you change your files and save them, GitHub Pages will update your site. 🎉  
 
-Your website is: https://teacher-brown.github.io/Elliot/index.html
+Your website is: https://teacher-brown.github.io/Logan/index.html
 
 ---
 
